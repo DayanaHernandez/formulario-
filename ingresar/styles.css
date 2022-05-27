@@ -1,0 +1,36 @@
+body{
+background-image:url(./assets/descarga.jpg);
+}
+
+.contenedor{
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+    margin-top: 13%;
+    text-align: center;
+}
+.contenedor h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+.ingresar input{
+    width: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+button{
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 15px;
+    background-color: white;
+}
